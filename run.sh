@@ -1,3 +1,4 @@
+make data
 sh run_one.sh "Paris"
 sh run_one.sh "Rome"
 sh run_one.sh "Venice"
